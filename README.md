@@ -108,9 +108,3 @@ If you have ideas to improve the dashboard or add new metrics, feel free to open
 ## 📜 License
 
 MIT License
-
----
-
-## ⭐ If you like this project
-
-Give it a star on GitHub and help it reach more developers.
